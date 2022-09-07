@@ -12,7 +12,7 @@
 
 2. Download all files above
 3. Open a new terminal and CD into the directory where you saved the code
-<img src="nodess.png"
+<img src="termss.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
