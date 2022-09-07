@@ -1,5 +1,4 @@
-# Snake-Game
-**A simple snake game written in Javscript**
+# Snake-Game **A simple snake game written in Javscript**
 <img src="snakess.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
