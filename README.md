@@ -1,12 +1,10 @@
 # Snake-Game
-
+**A simple snake game written in Javscript**
 <img src="snakess.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
 
-
-**A simple snake game written in Javscript**
 
 **__How to run the game__**
 1. You need to have node js installed -- https://nodejs.org/en/
