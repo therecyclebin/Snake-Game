@@ -4,7 +4,7 @@
 **__How to run the game__**
 1. You need to have node js installed -- https://nodejs.org/en/
 
-<img src="markdownmonstericon.png"
+<img src="nodess.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
