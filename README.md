@@ -9,7 +9,7 @@
 3. __Open a new terminal and CD into the directory where you saved the code__
 4. __Install Live Server in Visual Studio Code__
 5. __Right click the html file and open with live server__
-6. 
+
 <img src="nodess.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
@@ -24,4 +24,3 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
- v
