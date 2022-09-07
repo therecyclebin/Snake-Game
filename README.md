@@ -1,4 +1,6 @@
-# Snake-Game<img src="snakess.png"
+# Snake-Game
+
+<img src="snakess.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 **A simple snake game written in Javscript**
