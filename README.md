@@ -4,7 +4,8 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-\n
+
+
 **A simple snake game written in Javscript**
 
 **__How to run the game__**
