@@ -17,7 +17,7 @@
      style="float: left; margin-right: 10px;" />
 
 4. __Install Live Server in Visual Studio Code__
-5. <img src="liveserverss.png"
+ <img src="liveserverss.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 6. __Right click the html file and open with live server__
